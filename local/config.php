@@ -67,7 +67,7 @@ include_once("scripts/xlpage-utf-8.php");
 ##  You'll also need to set a default upload password, or else set
 ##  passwords on individual groups and pages.  For more information
 ##  see PmWiki.UploadsAdmin.
-# $EnableUpload = 1;
+$EnableUpload = 1;
 # $UploadPermAdd = 0;
 # $DefaultPasswords['upload'] = pmcrypt('secret');
 
@@ -159,3 +159,6 @@ include_once("scripts/xlpage-utf-8.php");
 # $GUIButtons['table'] = array(600,
 #                       '||border=1 width=80%\\n||!Hdr ||!Hdr ||!Hdr ||\\n||     ||     ||     ||\\n||     ||     ||     ||\\n', '', '', 
 #                     '$GUIButtonDirUrlFmt/table.gif"$[Table]"');
+
+# Enable Post Author Required
+EnablePostAuthorRequireda = 1;
