@@ -161,4 +161,4 @@ $EnableUpload = 1;
 #                     '$GUIButtonDirUrlFmt/table.gif"$[Table]"');
 
 # Enable Post Author Required
-EnablePostAuthorRequireda = 1;
+$EnablePostAuthorRequired = 1;
