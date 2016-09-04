@@ -5,6 +5,9 @@
 ##  for more details on the types of customizations that can be added
 ##  to PmWiki.
 
+# Enable Unicode language support
+include_once("scripts/xlpage-utf-8.php");
+
 ##  $WikiTitle is the name that appears in the browser's title bar.
 $WikiTitle = 'New James Land';
 
