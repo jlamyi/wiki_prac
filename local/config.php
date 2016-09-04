@@ -6,7 +6,7 @@
 ##  to PmWiki.
 
 ##  $WikiTitle is the name that appears in the browser's title bar.
-$WikiTitle = 'Esteban PmWiki';
+$WikiTitle = 'New James Land';
 
 ##  $ScriptUrl is your preferred URL for accessing wiki pages
 ##  $PubDirUrl is the URL for the pub directory.
