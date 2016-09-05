@@ -1,0 +1,18 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+author=jlamyi
+charset=UTF-8
+csum=
+ctime=1473107283
+host=71.198.92.45
+name=Site.未来任务
+rev=2
+targets=
+text=* 第一阶段：完成网站基础建设%0a* 第二阶段：wiki内容添加与扩展%0a* 第三阶段：增加用户%0a* 第四阶段：用户分组与管理%0a* 第五阶段：网络信息安全
+time=1473107673
+author:1473107673=jlamyi
+diff:1473107673:1473107283:=4,5c4%0a%3c * 第四阶段：用户分组与管理%0a%3c * 第五阶段：网络信息安全%0a\ No newline at end of file%0a---%0a> * 第四阶段：用户分组与管理%0a\ No newline at end of file%0a
+host:1473107673=71.198.92.45
+author:1473107283=jlamyi
+diff:1473107283:1473107283:=1,4d0%0a%3c * 第一阶段：完成网站基础建设%0a%3c * 第二阶段：wiki内容添加与扩展%0a%3c * 第三阶段：增加用户%0a%3c * 第四阶段：用户分组与管理%0a\ No newline at end of file%0a
+host:1473107283=71.198.92.45
