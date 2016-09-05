@@ -6,10 +6,16 @@ csum=
 host=71.198.92.45
 name=Site.SideBar
 passwdedit=@_site_edit
-rev=1
-targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Site.测试页,PmWiki.MailingLists,Site.SideBar
-text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a* [[测试页]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1472962891
+rev=3
+targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Site.当前任务,Site.帮助,PmWiki.MailingLists,Site.SideBar
+text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a* [[当前任务]]%0a* [[帮助]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1473104576
+author:1473104576=jlamyi
+diff:1473104576:1473104284:=13d12%0a%3c * [[帮助]]%0a
+host:1473104576=71.198.92.45
+author:1473104284=jlamyi
+diff:1473104284:1472962891:=12c12%0a%3c * [[当前任务]]%0a---%0a> * [[测试页]]%0a
+host:1473104284=71.198.92.45
 author:1472962891=jlamyi
 diff:1472962891:1125550800:=12d11%0a%3c * [[测试页]]%0a
 host:1472962891=71.198.92.45

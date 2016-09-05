@@ -8,6 +8,9 @@
 # Enable Unicode language support
 include_once("scripts/xlpage-utf-8.php");
 
+# Enable identity-based system
+include_once("$FarmD/scripts/authuser.php");
+
 ##  $WikiTitle is the name that appears in the browser's title bar.
 $WikiTitle = 'New James Land';
 
