@@ -1,15 +1,36 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
-author=jlamyi
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36
+author=elinou
 charset=UTF-8
 csum=
-host=71.198.92.45
+host=112.96.109.118
 name=Site.SideBar
 passwdedit=@_site_edit
-rev=4
-targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Site.当前任务,Site.未来任务,Site.帮助,PmWiki.MailingLists,Site.SideBar
-text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a* [[当前任务]]%0a* [[未来任务]]%0a* [[帮助]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1473107074
+rev=11
+targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Site.当前任务,Site.未来任务,Site.帮助,Site.QAmpA,PmWiki.MailingLists,Site.SideBar
+text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a* [[当前任务]]%0a* [[未来任务]]%0a* [[帮助]]%0a* [[Q&A]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1473474059
+author:1473474059=elinou
+diff:1473474059:1473434592:=15d14%0a%3c * [[Q&A]]%0a
+host:1473474059=112.96.109.118
+author:1473434592=elinou
+diff:1473434592:1473433990:=
+host:1473434592=113.103.6.235
+author:1473433990=elinou
+diff:1473433990:1473433984:=
+host:1473433990=113.103.6.235
+author:1473433984=elinou
+diff:1473433984:1473430766:=14a15%0a> * [[by Esteban]]%0a
+host:1473433984=113.103.6.235
+author:1473430766=elinou
+diff:1473430766:1473430668:=15c15%0a%3c * [[by Esteban]]%0a---%0a> * [[made by esteban]]%0a
+host:1473430766=113.103.6.235
+author:1473430668=elinou
+diff:1473430668:1473430649:=
+host:1473430668=113.103.6.235
+author:1473430649=elinou
+diff:1473430649:1473107074:=15d14%0a%3c * [[made by esteban]]%0a
+host:1473430649=113.103.6.235
 author:1473107074=jlamyi
 diff:1473107074:1473104576:=13d12%0a%3c * [[未来任务]]%0a
 host:1473107074=71.198.92.45

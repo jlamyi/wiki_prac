@@ -1,17 +1,20 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
-author=jlamyi
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+author=elinou
 charset=UTF-8
 csum=
 ctime=1473104485
-host=71.198.92.45
+host=121.32.69.68
 name=Site.当前任务
 passwdattr=id:jlamyi
 passwdedit=id:jlamyi id:elinou
-rev=7
+rev=8
 targets=
 text=*建立并完善用户系统 (AuthUser)%0a*设置 “edit SideBar” 权限%0a*标题设置%0a
-time=1473106284
+time=1473610634
+author:1473610634=elinou
+diff:1473610634:1473106284:=
+host:1473610634=121.32.69.68
 author:1473106284=jlamyi
 diff:1473106284:1473105757:=1c1%0a%3c *建立并完善用户系统 (AuthUser)%0a---%0a> *建立用户系统 (users)%0a
 host:1473106284=71.198.92.45
