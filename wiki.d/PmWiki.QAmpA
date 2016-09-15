@@ -1,0 +1,15 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+author=elinou
+charset=UTF-8
+csum=
+ctime=1473774624
+host=121.32.71.198
+name=PmWiki.QAmpA
+rev=1
+targets=
+text=
+time=1473774624
+author:1473774624=elinou
+diff:1473774624:1473774624:=
+host:1473774624=121.32.71.198
