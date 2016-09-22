@@ -1,0 +1,15 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+author=jlamyi
+charset=UTF-8
+csum=
+ctime=1474236209
+host=71.198.92.45
+name=Site.其它
+rev=1
+targets=
+text=遇到问题可以继续加在这里%0a* 解决每次开新wiki页都要设置权限的问题（太麻烦）%0a* 加上返回上一层的链接，不用每次都要从头开始
+time=1474236209
+author:1474236209=jlamyi
+diff:1474236209:1474236209:=1,3d0%0a%3c 遇到问题可以继续加在这里%0a%3c * 解决每次开新wiki页都要设置权限的问题（太麻烦）%0a%3c * 加上返回上一层的链接，不用每次都要从头开始%0a\ No newline at end of file%0a
+host:1474236209=71.198.92.45
