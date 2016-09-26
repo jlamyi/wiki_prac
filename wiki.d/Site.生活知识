@@ -1,9 +1,22 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+author=elinou
 charset=UTF-8
+csum=
 ctime=1474234315
-host=71.198.92.45
+host=113.103.7.45
 name=Site.生活知识
 passwdedit=id:jlamyi id:elinou
-rev=1
-time=1474234315
+rev=4
+targets=Site.衣服被染色了怎么办
+text=%0a##[[衣服被染色了怎么办]]
+time=1474902147
+author:1474902147=elinou
+diff:1474902147:1474902102:=1,2c1%0a%3c %0a%3c ##[[衣服被染色了怎么办]]%0a\ No newline at end of file%0a---%0a> !!##[[衣服被染色了怎么办]]%0a\ No newline at end of file%0a
+host:1474902147=113.103.7.45
+author:1474902102=elinou
+diff:1474902102:1474900925:=1c1%0a%3c !!##[[衣服被染色了怎么办]]%0a\ No newline at end of file%0a---%0a> ##[[衣服被染色了怎么办]]%0a\ No newline at end of file%0a
+host:1474902102=113.103.7.45
+author:1474900925=elinou
+diff:1474900925:1474234315:=1d0%0a%3c ##[[衣服被染色了怎么办]]%0a\ No newline at end of file%0a
+host:1474900925=113.103.7.45
