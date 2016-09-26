@@ -1,15 +1,18 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
-author=jlamyi
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+author=elinou
 charset=UTF-8
 csum=
 ctime=1474235995
-host=71.198.92.45
+host=121.32.68.19
 name=Site.用户私隐系统
-rev=1
-targets=
-text=* 用户能自己注册用户名还有密码，但须要管理员批准（不知道这个wiki软件能不能实现，需要去查一下怎么做）%0a* 管理员是否能查看用户密码？
-time=1474235995
+rev=2
+targets=Site.建立并完善用户系统AuthUser
+text=                                                                                                      [[建立并完善用户系统AuthUser|BACK]]%0a* 用户能自己注册用户名还有密码，但须要管理员批准（不知道这个wiki软件能不能实现，需要去查一下怎么做）%0a* 管理员是否能查看用户密码？
+time=1474619240
+author:1474619240=elinou
+diff:1474619240:1474235995:=1d0%0a%3c                                                                                                       [[建立并完善用户系统AuthUser|BACK]]%0a
+host:1474619240=121.32.68.19
 author:1474235995=jlamyi
 diff:1474235995:1474235995:=1,2d0%0a%3c * 用户能自己注册用户名还有密码，但须要管理员批准（不知道这个wiki软件能不能实现，需要去查一下怎么做）%0a%3c * 管理员是否能查看用户密码？%0a\ No newline at end of file%0a
 host:1474235995=71.198.92.45

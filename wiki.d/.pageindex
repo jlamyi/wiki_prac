@@ -1,9 +1,12 @@
+PmWiki.RecentChanges:1474621438:  : recentchanges mynewpage september pmwiki elinou qampa 2016 36 13 by 03 at 50 12
+SiteAdmin.RecentChanges:1474621438:  : recentchanges siteadmin september authuser jlamyi 2016 by 08 05 at pm
+Site.生活知识:1474621438:  : 生活知识 site
+Site.其它:1474620600: Site.建立并完善用户系统AuthUser : 解决每次开新wiki页都要设置权限的问题（太麻烦） 加上返回上一层的链接，不用每次都要从头开始 遇到问题可以继续加在这里 建立并完善用户系统authuser 其它 完成 back site
+Site.用户私隐系统:1474619240: Site.建立并完善用户系统AuthUser : 用户能自己注册用户名还有密码，但须要管理员批准（不知道这个wiki软件能不能实现，需要去查一下怎么做） 管理员是否能查看用户密码？ 建立并完善用户系统authuser 用户私隐系统 site back
+Site.建立用户分组架构:1474619148: Site.建立并完善用户系统AuthUser : 内部用户组：拥有所有wiki页的查看和编辑权限，但是没有更改权限和网站设置的权限，参与网站建设，相当于vip用户组 外部用户组：只有部分wiki页的查看和编辑权限，不参与网站建设，相当于一般用户 浏览用户组：只有部分wiki页的查看权限，没有任何编辑权限 管理员（admin）用户组：拥有所有权限（id 暂时的架构是分成四个用户组 建立并完善用户系统authuser 建立用户分组架构 jlamyi，id elinou） site back
+Site.建立并完善用户系统AuthUser:1474619054: Site.当前任务 Site.建立用户分组架构 Site.用户私隐系统 Site.其它 : 建立并完善用户系统authuser 建立用户分组架构 用户私隐系统 当前任务 其它 site back
 Site.Aa:1474587365: Site.Test : site test back aa
-Site.建立并完善用户系统AuthUser:1474587316: Site.当前任务 Site.建立用户分组架构 Site.用户私隐系统 Site.其它 : 建立并完善用户系统authuser 建立用户分组架构 用户私隐系统 当前任务 其它 site back
 Site.Test:1474586350: Site.Aa : test site aa
-Site.其它:1474236209:  : 解决每次开新wiki页都要设置权限的问题（太麻烦） 加上返回上一层的链接，不用每次都要从头开始 遇到问题可以继续加在这里 其它 site
-Site.建立用户分组架构:1474236059:  : 内部用户组：拥有所有wiki页的查看和编辑权限，但是没有更改权限和网站设置的权限，参与网站建设，相当于vip用户组 外部用户组：只有部分wiki页的查看和编辑权限，不参与网站建设，相当于一般用户 浏览用户组：只有部分wiki页的查看权限，没有任何编辑权限 管理员（admin）用户组：拥有所有权限（id 暂时的架构是分成四个用户组 建立用户分组架构 jlamyi，id elinou） site
-Site.用户私隐系统:1474235995:  : 用户能自己注册用户名还有密码，但须要管理员批准（不知道这个wiki软件能不能实现，需要去查一下怎么做） 管理员是否能查看用户密码？ 用户私隐系统 site
 Site.当前任务:1474235176: Site.建立并完善用户系统AuthUser : 建立并完善用户系统authuser 设置用户组 当前任务 标题设置 sidebar” “edit 权限 完成 group site
 Site.SideBar:1474234280: Main.HomePage Main.WikiSandbox PmWiki.PmWiki Site.生活知识 PmWiki.InitialSetupTasks PmWiki.BasicEditing PmWiki.DocumentationIndex PmWiki.FAQ PmWiki.PmWikiPhilosophy PmWiki.ReleaseNotes PmWiki.ChangeLog Site.当前任务 Site.未来任务 Site.帮助 Site.QAmpA Site.Test PmWiki.MailingLists Site.SideBar : documentationindex initialsetuptasks pmwikiphilosophy 生活知识 未来任务 releasenotes 当前任务 mailinglists basicediting wikisandbox changelog sidehead cookbook homepage tracking sidebar 帮助 themes action addons issue qampa skins right site test pits main http faq org www
 PmWiki.QAmpA:1473774624:  : pmwiki qampa
