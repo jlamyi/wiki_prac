@@ -1,5 +1,5 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
 author=jlamyi
 charset=UTF-8
 csum=
@@ -7,10 +7,31 @@ host=71.198.92.45
 name=Site.SideBar
 passwdattr=id:jlamyi
 passwdedit=id:jlamyi id:elinou
-rev=16
-targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,Site.生活知识,PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,Site.当前任务,Site.未来任务,Site.帮助,Site.QAmpA,Site.Test,PmWiki.MailingLists,Site.SideBar
-text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[生活知识]]%0a* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]%0a* [[当前任务]]%0a* [[未来任务]]%0a* [[帮助]]%0a* [[Q&A]]%0a* [[Test]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
-time=1474234280
+rev=23
+targets=Main.HomePage,Main.WikiSandbox,PmWiki.PmWiki,Site.生活知识,Site.健康,Site.食物,Site.当前任务,Site.未来任务,Site.帮助,Site.QAmpA,Site.Test,Site.PmwikiHelp,PmWiki.MailingLists,Site.SideBar
+text=* [[Main/HomePage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[生活知识]]%0a* [[健康]]%0a* [[食物]]%0a* [[当前任务]]%0a* [[未来任务]]%0a* [[帮助]]%0a* [[Q&A]]%0a* [[Test]]%0a* [[Pmwiki Help]]%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Cookbook | Cookbook (addons) ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a* [[PITS:PITS | PITS (issue tracking) ]]%0a* [[PmWiki/Mailing Lists]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1478137531
+author:1478137531=jlamyi
+diff:1478137531:1478056529:=7d6%0a%3c * [[食物]]%0a
+host:1478137531=71.198.92.45
+author:1478056529=jlamyi
+diff:1478056529:1478056472:=6d5%0a%3c * [[健康]]%0a
+host:1478056529=71.198.92.45
+author:1478056472=jlamyi
+diff:1478056472:1475019092:=5a6,12%0a> * [[PmWiki/Initial Setup Tasks]]  %0a> * [[PmWiki/Basic Editing]]%0a> * [[PmWiki/Documentation Index]]%0a> * [[PmWiki/FAQ | PmWiki FAQ ]]%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a11d17%0a%3c * [[Pmwiki Help]]%0a
+host:1478056472=71.198.92.45
+author:1475019092=elinou
+diff:1475019092:1475019041:=17a18%0a> * [[aa]]%0a
+host:1475019092=121.32.68.62
+author:1475019041=elinou
+diff:1475019041:1474970328:=18d17%0a%3c * [[aa]]%0a
+host:1475019041=121.32.68.62
+author:1474970328=elinou
+diff:1474970328:1474902986:=17d16%0a%3c * [[Test]]%0a
+host:1474970328=113.103.7.45
+author:1474902986=elinou
+diff:1474902986:1474234280:=16a17%0a> * [[Test]]%0a
+host:1474902986=113.103.7.45
 author:1474234280=jlamyi
 diff:1474234280:1474234244:=5d4%0a%3c * [[生活知识]]%0a
 host:1474234280=71.198.92.45

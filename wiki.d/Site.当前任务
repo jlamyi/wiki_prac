@@ -1,5 +1,5 @@
 version=pmwiki-2.2.89 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
 author=jlamyi
 charset=UTF-8
 csum=
@@ -8,10 +8,13 @@ host=71.198.92.45
 name=Site.当前任务
 passwdattr=id:jlamyi
 passwdedit=id:jlamyi id:elinou
-rev=10
+rev=11
 targets=Site.建立并完善用户系统AuthUser
-text=*[[建立并完善用户系统 (AuthUser)]]%0a*设置 “edit SideBar” 权限                                        ---- 完成%0a*标题设置%0a*设置用户组 (user group)%0a%0a%0a
-time=1474235176
+text=*[[建立并完善用户系统 (AuthUser)]]%0a*设置 “edit SideBar” 权限                                        ---- 完成%0a*标题设置%0a*设置用户组 (user group):   http://52.88.173.234/pmwiki/pmwiki.php?n=PmWiki.AuthUser, and search 'group'%0a%0a%0a
+time=1477875327
+author:1477875327=jlamyi
+diff:1477875327:1474235176:=4c4%0a%3c *设置用户组 (user group):   http://52.88.173.234/pmwiki/pmwiki.php?n=PmWiki.AuthUser, and search 'group'%0a---%0a> *设置用户组 (user group)%0a
+host:1477875327=71.198.92.45
 author:1474235176=jlamyi
 diff:1474235176:1474234430:=1c1%0a%3c *[[建立并完善用户系统 (AuthUser)]]%0a---%0a> *建立并完善用户系统 (AuthUser)%0a5,6d4%0a%3c %0a%3c %0a
 host:1474235176=71.198.92.45

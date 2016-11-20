@@ -1,0 +1,18 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+author=jlamyi
+charset=UTF-8
+csum=
+ctime=1478137753
+host=71.198.92.45
+name=Site.土豆泥
+rev=2
+targets=Site.牛奶
+text=!!原料%0a* 土豆%0a* 黄油%0a* [[牛奶]]%0a%0a!!制作%0a...
+time=1478137773
+author:1478137773=jlamyi
+diff:1478137773:1478137753:=4,7c4%0a%3c * [[牛奶]]%0a%3c %0a%3c !!制作%0a%3c ...%0a\ No newline at end of file%0a---%0a> * [[牛奶]]%0a\ No newline at end of file%0a
+host:1478137773=71.198.92.45
+author:1478137753=jlamyi
+diff:1478137753:1478137753:=1,4d0%0a%3c !!原料%0a%3c * 土豆%0a%3c * 黄油%0a%3c * [[牛奶]]%0a\ No newline at end of file%0a
+host:1478137753=71.198.92.45

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+author=jlamyi
+charset=UTF-8
+csum=
+ctime=1478056501
+host=71.198.92.45
+name=Site.PmwikiHelp
+rev=1
+targets=PmWiki.InitialSetupTasks,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog
+text=* [[PmWiki/Initial Setup Tasks]]  %0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a* [[PmWiki/Release Notes]]%0a* [[PmWiki/ChangeLog]]
+time=1478056501
+author:1478056501=jlamyi
+diff:1478056501:1478056501:=1,7d0%0a%3c * [[PmWiki/Initial Setup Tasks]]  %0a%3c * [[PmWiki/Basic Editing]]%0a%3c * [[PmWiki/Documentation Index]]%0a%3c * [[PmWiki/FAQ | PmWiki FAQ ]]%0a%3c * [[PmWiki/PmWikiPhilosophy]]%0a%3c * [[PmWiki/Release Notes]]%0a%3c * [[PmWiki/ChangeLog]]%0a\ No newline at end of file%0a
+host:1478056501=71.198.92.45

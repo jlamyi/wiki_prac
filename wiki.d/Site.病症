@@ -1,0 +1,16 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+author=elinou
+charset=UTF-8
+csum=
+ctime=1479643688
+host=121.32.70.50
+name=Site.病症
+passwdedit=id:jlamyi id:elinou
+rev=2
+targets=Site.健康,Site.肠胃病
+text=%0a                                                                                                               [[健康|Back]]%0a* [[肠胃病]]
+time=1479644001
+author:1479644001=elinou
+diff:1479644001:1479643688:=1,3d0%0a%3c %0a%3c                                                                                                                [[健康|Back]]%0a%3c * [[肠胃病]]%0a\ No newline at end of file%0a
+host:1479644001=121.32.70.50

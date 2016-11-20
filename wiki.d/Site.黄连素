@@ -1,0 +1,15 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+author=elinou
+charset=UTF-8
+csum=
+ctime=1479656017
+host=121.32.70.50
+name=Site.黄连素
+rev=1
+targets=Site.肠胃病
+text=                                                                                                               [[肠胃病|Back]]%0a*常用来治疗细菌性胃肠炎、痢疾等消化道疾病
+time=1479656017
+author:1479656017=elinou
+diff:1479656017:1479656017:=1,2d0%0a%3c                                                                                                                [[肠胃病|Back]]%0a%3c *常用来治疗细菌性胃肠炎、痢疾等消化道疾病%0a\ No newline at end of file%0a
+host:1479656017=121.32.70.50

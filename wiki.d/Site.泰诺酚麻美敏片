@@ -1,0 +1,18 @@
+version=pmwiki-2.2.89 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+author=elinou
+charset=UTF-8
+csum=
+ctime=1479655913
+host=121.32.70.50
+name=Site.泰诺酚麻美敏片
+rev=2
+targets=Site.肠胃病
+text=                                                                                                               [[肠胃病|Back]]%0a*泰诺酚麻美敏片，适用于缓解由感冒或流感引起的发热、头痛、咽痛、肌肉酸痛、鼻塞流涕、打喷嚏、咳嗽等症状。
+time=1479655928
+author:1479655928=elinou
+diff:1479655928:1479655913:=2c2%0a%3c *泰诺酚麻美敏片，适用于缓解由感冒或流感引起的发热、头痛、咽痛、肌肉酸痛、鼻塞流涕、打喷嚏、咳嗽等症状。%0a\ No newline at end of file%0a---%0a> *!!!泰诺酚麻美敏片，适用于缓解由感冒或流感引起的发热、头痛、咽痛、肌肉酸痛、鼻塞流涕、打喷嚏、咳嗽等症状。%0a\ No newline at end of file%0a
+host:1479655928=121.32.70.50
+author:1479655913=elinou
+diff:1479655913:1479655913:=1,2d0%0a%3c                                                                                                                [[肠胃病|Back]]%0a%3c *!!!泰诺酚麻美敏片，适用于缓解由感冒或流感引起的发热、头痛、咽痛、肌肉酸痛、鼻塞流涕、打喷嚏、咳嗽等症状。%0a\ No newline at end of file%0a
+host:1479655913=121.32.70.50
